@@ -1,0 +1,175 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "TesteCurso",
+      "request": "launch",
+      "mainClass": "cursojava.aula36labs.TesteCurso",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "Exer01",
+      "request": "launch",
+      "mainClass": "cursojava.aula36labs.Exer01",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "Teste",
+      "request": "launch",
+      "mainClass": "cursojava.aula36.Teste",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "Teste",
+      "request": "launch",
+      "mainClass": "cursojava.aula35labs.Teste",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "TesteFibronacci",
+      "request": "launch",
+      "mainClass": "cursojava.aula35labs.TesteFibronacci",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "CalculadoraFibonacci",
+      "request": "launch",
+      "mainClass": "cursojava.aula35.CalculadoraFibonacci",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "cursojava.aula35.Fibonacci",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "TesteCalculadora",
+      "request": "launch",
+      "mainClass": "cursojava.aula35.TesteCalculadora",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "TesteCalculadoraFatorial",
+      "request": "launch",
+      "mainClass": "cursojava.aula34.TesteCalculadoraFatorial",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "TesteCalculadora",
+      "request": "launch",
+      "mainClass": "cursojava.aula34.TesteCalculadora",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "TesteContador",
+      "request": "launch",
+      "mainClass": "cursojava.aula34.TesteContador",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "TesteJogoDaVelha",
+      "request": "launch",
+      "mainClass": "cursojava.aula34.TesteJogoDaVelha",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "TesteAluno",
+      "request": "launch",
+      "mainClass": "cursojava.aula34.TesteAluno",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "TesteContaCorrente",
+      "request": "launch",
+      "mainClass": "cursojava.aula34.TesteContaCorrente",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "Exer01",
+      "request": "launch",
+      "mainClass": "cursojava.aula34.Exer01",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "cursojava.aula27.App",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "Exer03",
+      "request": "launch",
+      "mainClass": "cursojava.aula27.Exer03",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "TesteJogoDaVelha",
+      "request": "launch",
+      "mainClass": "cursojava.aula27.TesteJogoDaVelha",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "Pacotes",
+      "request": "launch",
+      "mainClass": "cursojava.aula28.Pacotes",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "TesteCarro1",
+      "request": "launch",
+      "mainClass": "cursojava.aula29.TesteCarro1",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "TesteCarro",
+      "request": "launch",
+      "mainClass": "cursojava.aula30.TesteCarro",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "TesteCarro(1)",
+      "request": "launch",
+      "mainClass": "cursojava.aula32.TesteCarro",
+      "projectName": "Aulas_98746fb"
+    },
+    {
+      "type": "java",
+      "name": "TesteMinhaCalculadora",
+      "request": "launch",
+      "mainClass": "cursojava.aula33.TesteMinhaCalculadora",
+      "projectName": "Aulas_98746fb"
+    }
+  ]
+}
