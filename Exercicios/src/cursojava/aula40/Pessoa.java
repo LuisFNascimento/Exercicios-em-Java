@@ -42,9 +42,11 @@ public class Pessoa {
 
     /**
      * @param endereco the endereco to set
+     * @param string
      */
     public void setEndereco(String endereco) {
         this.endereco = endereco;
+        
     }
 
     /**
@@ -88,6 +90,11 @@ public class Pessoa {
      */
     public void setTelefoneCelular(String telefoneCelular) {
         this.telefoneCelular = telefoneCelular;
+    }
+
+    public String obterEtiquetaEndereco() {
+
+        return endereco;
     }
 
 }
