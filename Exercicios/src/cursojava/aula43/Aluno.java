@@ -1,5 +1,7 @@
 package cursojava.aula43;
 
+import java.util.Arrays;
+
 public class Aluno  {
     
     private String cursos;
@@ -66,22 +68,35 @@ public class Aluno  {
         return true;
     }
 
-     /*public String obterEtiquetaEndereco(){
+     public String obterEtiquetaEndereco(){
 
         String s = "Endereço do Aluno: ";
-        s += super.getEndereco();
+        //s += super.getEndereco();
 
         return s; 
     }
 
 
+    //@Override
+        public void imprimirEtiquetaEndereco() {
+
+            System.out.println("Imprimindo o endereço do Aluno");
+            System.out.println(this.obterEtiquetaEndereco());
+        }
 
 
-    /*@Override
-    public void imprimirEtiquetaEndereco() {
+        @Override
+        public String toString() {
+            return "Aluno [cursos=" + cursos + ", notas=" + Arrays.toString(notas) + "]";
+        }
 
-        System.out.println("Imprimindo o endereço do Aluno");
-        System.out.println(this.obterEtiquetaEndereco());
+        /*public String toString() {
+            String s = cursos = "\n";
+            for (double nota : notas){
+                s += nota + " ";
+        }
+
+        return s;
     }*/
 
 }
