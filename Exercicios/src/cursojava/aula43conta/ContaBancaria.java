@@ -1,4 +1,4 @@
-package cursojava.aula43labs;
+package cursojava.aula43conta;
 
 public class ContaBancaria {
     
