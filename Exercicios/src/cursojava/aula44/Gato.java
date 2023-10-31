@@ -50,8 +50,7 @@ public class Gato extends Mamifero implements AnimalDomesticado, AnimalEstimacao
 
     @Override
     public void imprimirNome() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'imprimirNome'");
+        
     }
 
 }

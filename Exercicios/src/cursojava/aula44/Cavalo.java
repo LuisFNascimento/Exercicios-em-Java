@@ -24,8 +24,7 @@ public class Cavalo extends Mamifero implements AnimalDomesticado {
 
     @Override
     public void imprimirNome() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'imprimirNome'");
+       
     }
         
 }
