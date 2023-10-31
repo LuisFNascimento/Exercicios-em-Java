@@ -21,4 +21,10 @@ public class Circulo extends Figura2D {
         this.raio = raio;
     }
 
+    @Override
+    public double calcularArea() {
+        return (raio * raio) * Math.PI;
+
+    }
+
 }
