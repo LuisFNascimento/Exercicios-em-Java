@@ -4,10 +4,13 @@ public class Agenda {
     
     private Contato[] contatos;
 
+    /**
+     * 
+     */
     public Agenda(){
-        contatos = new Contato[5];
+        //contatos = new Contato[5];
 
-    public void adicionarContato(Contato c) {
+  /*  public void adicionarContato(Contato c) {
 
         for (int i=0; i<contatos.length; i++){
             if (contatos[i] != null){
@@ -27,5 +30,21 @@ public class Agenda {
         }
         return s;
     }
+    }*/
+}
+
+    /**
+     * @return Contato[] return the contatos
+     */
+    public Contato[] getContatos() {
+        return contatos;
     }
+
+    /**
+     * @param contatos the contatos to set
+     */
+    public void setContatos(Contato[] contatos) {
+        this.contatos = contatos;
+    }
+
 }
