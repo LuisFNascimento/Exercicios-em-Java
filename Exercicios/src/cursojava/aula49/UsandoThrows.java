@@ -18,9 +18,10 @@ public class UsandoThrows {
     }
 
     public static double leNumero() throws Exception {
-        Scanner scan = new Scanner(System.in);
-        double num = scan.nextDouble();
-        return num;
+        try (Scanner scan = new Scanner(System.in)) {
+            double num = scan.nextDouble();
+            return num;
+        }
     }
 
 
